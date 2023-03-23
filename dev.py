@@ -11,3 +11,5 @@ while(i<=10):
 
 for i in "devendra":
     print(i);
+
+ print("helllo python");   
